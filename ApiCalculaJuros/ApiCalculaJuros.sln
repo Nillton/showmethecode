@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCalculaJuros", "ApiCalculaJuros\ApiCalculaJuros.csproj", "{299DF0D0-0670-4AF4-9733-220005579F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCalculaJurosTeste", "ApiCalculaJurosTeste\ApiCalculaJurosTeste.csproj", "{5039264F-E497-4204-B6E3-118C02CBA322}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{299DF0D0-0670-4AF4-9733-220005579F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299DF0D0-0670-4AF4-9733-220005579F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299DF0D0-0670-4AF4-9733-220005579F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299DF0D0-0670-4AF4-9733-220005579F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5039264F-E497-4204-B6E3-118C02CBA322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5039264F-E497-4204-B6E3-118C02CBA322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5039264F-E497-4204-B6E3-118C02CBA322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5039264F-E497-4204-B6E3-118C02CBA322}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6478F2E3-EB38-4D9E-ADC5-563AF07ED086}
+	EndGlobalSection
+EndGlobal
